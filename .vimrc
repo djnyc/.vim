@@ -5,7 +5,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
-let g:vimwiki_list = [ {'path': '~/Dropbox/VimWiki/personal.wiki' , 'path_html': '~/Dropbox/VimWiki/export/html/personal' } , { 'path': '~/Dropbox/VimWiki/school.wiki' , 'path_html': '~/Dropbox/VimWiki/export/html/school' }]
+let g:vimwiki_list = [ {'path': '~/Dropbox/VimWiki/personal.wiki' , 'path_html': '~/Dropbox/Apps/My.DropPages/djnwiki.droppages.com/Content' } , { 'path': '~/Dropbox/VimWiki/school.wiki' , 'path_html': '~/Dropbox/VimWiki/export/html/school' }]
 
 set background=dark
 colorscheme solarized
